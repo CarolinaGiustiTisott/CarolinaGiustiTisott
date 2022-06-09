@@ -1,5 +1,5 @@
-### 👋 Hi there! My name is Carolina Giusti Tisott 
-
+### 👋 Hi there! 
+### My name is Carolina Giusti Tisott 
 ### I'm an Electrical Engineer and now I'm studying to be an Android developer.
 
 - 🌱 I’m currently learning Kotlin.
