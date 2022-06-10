@@ -1,6 +1,6 @@
 ### 👋 Hi there! 
 ### My name is Carolina Giusti Tisott 
-### I'm an Electrical Engineer and now I'm studying to be an Android developer.
+### I'm an Electrical Engineer and now I'm studying to be an Android Developer.
 
 - 🌱 I’m currently learning Kotlin.
 
@@ -11,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Carol-Kotlin" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Rafa-pic" height="120" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_9ThWCOlw.png">
+  <img align="right" alt="Carol-pic" height="120" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_9ThWCOlw.png">
 </div>
   
   <div> 
